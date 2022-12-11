@@ -1,5 +1,3 @@
-# realaqua.xyz
-
 The website for aquaticthickshell / realaqua.
 
 Can also reach me at:
